@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="oneone">one,one</string>
+    <string name="onetwo">one,two</string>
+    <string name="onethree">one,three</string>
+    <string name="onefour">one,four</string>
+    <string name="twoone">two,one</string>
+    <string name="twotwo">two,two</string>
+    <string name="twothree">two,three</string>
+    <string name="twofour">two,four</string>
+</resources>
