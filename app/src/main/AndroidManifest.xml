@@ -12,10 +12,6 @@
        <activity
             android:name=".Main"
             android:label="Main">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".LifeCycle"
@@ -24,6 +20,26 @@
         <activity
             android:name=".HelloWorld"
             android:label="Hello World!">
+        </activity>
+        <activity
+            android:name=".Main2"
+            android:label="Main Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Linear_Layout"
+            android:label="Linear Layout">
+        </activity>
+        <activity
+            android:name=".Table_Layout"
+            android:label="Table Layout">
+        </activity>
+        <activity
+            android:name=".Constraint_Layout"
+            android:label="Constraint Layout">
         </activity>
     </application>
 
